@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
+title: Oscar's winners vs user's ratings
+description: Data story about Oscar's winners and user's ratings by team bADAboum for the EPFL ADA course
 show_downloads: True
 navigation:
   - title: Home
