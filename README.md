@@ -1,9 +1,5 @@
----
-layout: default
----
 
 # Oscar's winners vs users' ratings
-[example](example.md)
 
 Maybe cite an award ceremony where nobody understood why a movie won and say that ADA can help us investigate → Nomadland (imo (soph) il était nul), maybe also cite some nominated movies that were not liked (like Once upon a time in Hollywood or why The Grand Budapest Hotel didn’t win in 2015 or like why Barbie didn’t win against Oppenheimer)
 
